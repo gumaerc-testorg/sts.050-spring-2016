@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 82f65182-4c6c-e3b4-291b-31e2cb107072
 ---
@@ -24,7 +26,7 @@ When writing down his vision for MIT, charismatic founder and education pioneer 
 
 Through readings, videos, discussions, lectures, special guest talks and hands-on opportunities, you will explore MIT like few others have. You will take up Rogers' challenge to weave together countless connecting threads.
 
-This class has been steadily evolving since first taught in 2010. This year (2016), MIT will celebrate the 100th anniversary of the move from Boston to Cambridge (Did you know that MIT was in Boston for its first half-century?!). There are a number of special events from exhibition openings and symposia, to some incredibly fun parties. You'll have a front row seat for many of these activities, and the opportunity to contribute behind the scenes. You'll have the opportunity to study original architectural plans, 3-D print sections of campus for a special map display, meet Cambridge residents who grew up in this neighborhood, listen to some of the world's best architectural historians and make a ceremonial crossing of the Charles.
+This class has been steadily evolving since first taught in 2010. This year (2016), MIT will celebrate the 100{{< sup "th" >}} anniversary of the move from Boston to Cambridge (Did you know that MIT was in Boston for its first half-century?!). There are a number of special events from exhibition openings and symposia, to some incredibly fun parties. You'll have a front row seat for many of these activities, and the opportunity to contribute behind the scenes. You'll have the opportunity to study original architectural plans, 3-D print sections of campus for a special map display, meet Cambridge residents who grew up in this neighborhood, listen to some of the world's best architectural historians and make a ceremonial crossing of the Charles.
 
 The class will officially be scheduled to meet twice a week, plus a recitation, but will be adjusted to accommodate some of the special events. A key feature of this class is special presentations by guest speakers. The mix varies from year to year but you can expect to meet outstanding professionals sharing stories about different aspects of MIT history. We will use the recitation sections for discussion and on-campus "field trips."
 

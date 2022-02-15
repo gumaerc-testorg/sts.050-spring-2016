@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: df9f4cc9-a4d0-6c27-518b-604d3ed210bd
 ---
@@ -234,7 +237,7 @@ Buderi, Robert. Chapters 11 and 12 in _The Invention That Changed the World: How
 
 _Teaching Excellence at MIT_. "[The Social Beaver (1956)](http://teachingexcellence.mit.edu/from-the-vault/the-social-beaver-1956)" and "[Churchill at MIT: The Midcentury Convocation of 1949 (1999)](https://winstonchurchill.org/resources/speeches/1946-1963-elder-statesman/mit-mid-century-convocation/)." Accessed September 19, 2016.
 
-Land, Edwin H. "[Generation of Greatness: The Idea of a University in an Age of Science](http://groups.csail.mit.edu/mac/users/hal/misc/generation-of-greatness.html)." 9th Annual Arthur Dehon Little Memorial Lecture at MIT, May 22, 1957.
+Land, Edwin H. "[Generation of Greatness: The Idea of a University in an Age of Science](http://groups.csail.mit.edu/mac/users/hal/misc/generation-of-greatness.html)." 9{{< sup "th" >}} Annual Arthur Dehon Little Memorial Lecture at MIT, May 22, 1957.
 
 ### Additional Readings and Viewings
 
