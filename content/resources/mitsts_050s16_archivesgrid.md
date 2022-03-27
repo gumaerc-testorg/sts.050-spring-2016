@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 61e0cf49-6994-c6b1-2eed-69b01ae5286c
 resourcetype: Document
 title: Using Artifacts as Evidence
 uid: 8bff8e8c-5300-a08f-8043-710181a923a2

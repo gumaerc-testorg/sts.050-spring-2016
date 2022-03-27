@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 61e0cf49-6994-c6b1-2eed-69b01ae5286c
 resourcetype: Document
 title: Archives Visit Worksheet
 uid: fbf54ed5-1679-7cd5-0791-60f201099813
