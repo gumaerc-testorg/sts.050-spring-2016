@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course assignments, class participation,
+  and workshops.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,21 +35,21 @@ Archives and Museum Workshops
 
 This class introduces students to both the Institute Archives and Special Collections and the MIT Museum. Special interactive workshops have been developed to help students learn how to access primary source material as well as see some of MIT's most special treasures firsthand. The worksheets below were developed for use in conjunction with exercises led by the archivists and curators and may not be as useful absent the instructor's introductions.
 
-[Worksheet (PDF)]({{< baseurl >}}/resources/mitsts_050s16_worksheet)
+{{% resource_link fbf54ed5-1679-7cd5-0791-60f201099813 "Worksheet (PDF)" %}}
 
-[Using Artifacts as Evidence (PDF)]({{< baseurl >}}/resources/mitsts_050s16_archivesgrid)
+{{% resource_link 8bff8e8c-5300-a08f-8043-710181a923a2 "Using Artifacts as Evidence (PDF)" %}}
 
 Project Assignments
 -------------------
 
-[Document Report]({{< baseurl >}}/pages/assignments/document-report)
+{{% resource_link 2558c0e7-6169-0752-7e54-8b43d1a9338e "Document Report" %}}
 
 This may be a unique writing exercise for you. On the surface, it is very simple: Pick a single document from the [Institute Archives](https://libraries.mit.edu/archives/) that relates to some aspect of MIT history from 1861 to 1906 that interests you. About two pages of this report will be formulaic, meaning you will be asked to answer a set of questions about your chosen document or artifact. You will need to generate another page of sources—books, articles, websites, videos—that relate to your document or artifact. Finally, you will write a one-page essay that tells an important story about MIT through the lens of your document or artifact.
 
-[Artifact / Plan Report]({{< baseurl >}}/pages/assignments/artifact-plan-report)
+{{% resource_link b97ae073-fe7f-a976-70c6-991f8b75037a "Artifact / Plan Report" %}}
 
 Like the document report, you will be asked to identify a single artifact or architectural plan from the [MIT Museum](http://mitmuseum.mit.edu/explore/collections) collection. These materials will relate to the period 1906 to 1920. Like the document report, you will have a series of questions to answer, a list of sources and a one-page essay.
 
-[Final Project]({{< baseurl >}}/pages/assignments/final-project)
+{{% resource_link d853c143-c3a5-71b7-6453-5282dcc9b8ce "Final Project" %}}
 
 The capstone assignment for the class is a comparative exercise. You may pick any aspect of MIT history that interests you. Your final project will be a "then and now" comparison. For example, how was physics taught in 1916 compared with today? If you decide to write a research paper, we will explain the requirements but it will be approximately 5–7 pages in length. If your project is something different, you will still be required to submit a project report with appropriate documentation (e.g.: Photographs).

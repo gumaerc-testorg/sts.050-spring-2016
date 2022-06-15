@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, guest speakers,
+  and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: e3ce942a-a63d-d6df-1cca-0a3da755376f
 ---
 
-[Reflection papers]({{< baseurl >}}/pages/assignments) due before first class of the week, starting week two.
+{{% resource_link 61e0cf49-6994-c6b1-2eed-69b01ae5286c "Reflection papers" %}} due before first class of the week, starting week two.
 
 {{< tableopen >}}
 {{< theadopen >}}

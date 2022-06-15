@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to choose a document
+  from the MIT Institute Archives and write a story about it.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

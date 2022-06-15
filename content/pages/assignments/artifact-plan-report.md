@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "This section provides instructions for an assignment to research the\
+  \ construction plan for one of the original MIT buildings designed by William Welles\
+  \ Bosworth in the 1913\u20131916 period."
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

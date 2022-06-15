@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the final project of the course,
+  a comparative exercise on MIT history.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
