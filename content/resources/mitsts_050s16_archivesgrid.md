@@ -6,6 +6,7 @@ file: /courses/sts-050-the-history-of-mit-spring-2016/8bff8e8c5300a08f8043710181
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Using Artifacts as Evidence
 uid: 8bff8e8c-5300-a08f-8043-710181a923a2
 ---
 Worksheet for a class visit to the MIT Institute Archives and Special Collections and the MIT Museum.
-
