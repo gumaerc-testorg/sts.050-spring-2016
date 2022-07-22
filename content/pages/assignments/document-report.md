@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to choose a document
+  from the MIT Institute Archives and write a story about it.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 61e0cf49-6994-c6b1-2eed-69b01ae5286c
 title: Document Report
 uid: 2558c0e7-6169-0752-7e54-8b43d1a9338e

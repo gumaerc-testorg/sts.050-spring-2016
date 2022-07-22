@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, guest speakers,
+  and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e3ce942a-a63d-d6df-1cca-0a3da755376f
 ---
 
-[Reflection papers]({{< baseurl >}}/pages/assignments) due before first class of the week, starting week two.
+{{% resource_link 61e0cf49-6994-c6b1-2eed-69b01ae5286c "Reflection papers" %}} due before first class of the week, starting week two.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -23,7 +27,7 @@ TOPICS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -44,7 +48,7 @@ America in 1850: The Age of Transformation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -71,7 +75,7 @@ _Recitations will meet at the Institute Archives and Special Collections_
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -92,7 +96,7 @@ MIT Museum Workshop
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -119,7 +123,7 @@ _Recitations Special Workshop: MIT Museum Architecture and Design Collection_.
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -146,7 +150,7 @@ Guest Speaker: Professor Mark Jarzombeck, author of _Designing MIT: Bosworth's N
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -173,7 +177,7 @@ Guest Speaker: Martha Eddison Sieniewicz, Special Assistant to the President of 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -194,7 +198,7 @@ Guest Speaker: Emily Vanderbilt Wade, Class of 1945
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -215,7 +219,7 @@ MIT Mid-Century
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -242,7 +246,7 @@ Sputnik and the Cold War
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -269,7 +273,7 @@ Guest Speaker: Karen Arenson, Class of 1970
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -290,7 +294,7 @@ Guest Speaker: Susan Hockfield, President Emerita and Professor of Neuroscience
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -306,12 +310,12 @@ MIT in the 1970s and 1980s
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Hacks, Kludges, Improvisations: MIT in the Late 20th Century
+Hacks, Kludges, Improvisations: MIT in the Late 20{{< sup "th" >}} Century
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -338,7 +342,7 @@ Guest Speaker: Sanjay Sarma, Vice President for Open Learning
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -356,7 +360,7 @@ Guest Speaker: Alan Marcum, Director of Treasury
 {{< tdopen >}}
 
 
-21st Century MIT
+21{{< sup "st" >}} Century MIT
 
 **Final Project Paper / Report Due**
 
