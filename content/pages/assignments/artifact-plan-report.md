@@ -16,7 +16,7 @@ uid: b97ae073-fe7f-a976-70c6-991f8b75037a
 Plan Report Assignment
 ----------------------
 
-The last project was all about learning about MIT in the 19{{< sup "th" >}} century through the careful study of textual sources. This project is about the analysis of visual sources and will focus on (not surprisingly, given this year's celebrations) the design and construction of the Cambridge campus. Our focus will be on a set of drawings created by architects, engineers and draftspeople who worked for {{% resource_link "a85984c0-7f85-4efe-a540-e54a80432154" "William Welles Bosworth" %}} (MIT's new campus architect) and Stone & Webster (the builders and interior designers).
+The last project was all about learning about MIT in the 19{{< sup "th" >}} century through the careful study of textual sources. This project is about the analysis of visual sources and will focus on (not surprisingly, given this year's celebrations) the design and construction of the Cambridge campus. Our focus will be on a set of drawings created by architects, engineers and draftspeople who worked for [William Welles Bosworth](https://listart.mit.edu/public-art-map/maclaurin-buildings-buildings-3-4-10) (MIT's new campus architect) and Stone & Webster (the builders and interior designers).
 
 This project is quite different from the previous one in that you will only consult other sources incidentally. Most of your time will be spent observing (and recording your observations), drawing and photographing. I want you to really look at and appreciate the history of this remarkable campus.
 

@@ -2,6 +2,7 @@
 content_type: resource
 description: Worksheet for a class visit to the MIT Institute Archives.
 file: /courses/sts-050-the-history-of-mit-spring-2016/fbf54ed516797cd5079160f201099813_MITSTS_050S16_Worksheet.pdf
+file_size: 694213
 file_type: application/pdf
 learning_resource_types:
 - Assignments
