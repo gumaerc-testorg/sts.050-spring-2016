@@ -3,7 +3,7 @@ content_type: resource
 description: An illustrated postcard by Mason Bros. & Co., featuring MIT from the
   banks of the Charles River. This postcard is part of the MIT Museum collections.
   (Courtesy of the MIT Museum. This image is in the public domain.)
-file: /courses/sts-050-the-history-of-mit-spring-2016/762381896ce6b6bac96857a147fd9b19_STS-050S16-th.jpg
+file: /ol-ocw-studio-app/courses/sts-050-the-history-of-mit-spring-2016/762381896ce6b6bac96857a147fd9b19_STS-050S16-th.jpg
 file_size: 17269
 file_type: image/jpeg
 image_metadata:
