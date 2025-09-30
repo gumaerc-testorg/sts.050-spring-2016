@@ -37,7 +37,7 @@ If you come up with another idea, please get it approved beforehand.
 
 Because it will be the easiest to complete, many of you will want to write a research paper. If you decide to do this, there will be an early / final due date arrangement (similar to previous assignments). If your project is something different, you will still be required to submit a project report with appropriate documentation (e.g.: Photographs) by the final due date.
 
-The goal of this assignment is to get you to think about the things you have learned during the term. Your grade will reflect the quality of your work, but also your ability to draw important conclusions about historical change. MIT is the same, MIT is different. Your job is to make this clear. Your research will be based on materials from the syllabus, as well as your own independent research using the many sources available at the Institute, such as the [Institute Archives](https://libraries.mit.edu/archives/), [MIT Museum](http://mitmuseum.mit.edu/), and various digital resources such as [The Tech](https://thetech.com/), [President's Reports](http://dome.mit.edu/handle/1721.3/58931), [Catalogs](http://dome.mit.edu/handle/1721.3/81660), etc.
+The goal of this assignment is to get you to think about the things you have learned during the term. Your grade will reflect the quality of your work, but also your ability to draw important conclusions about historical change. MIT is the same, MIT is different. Your job is to make this clear. Your research will be based on materials from the syllabus, as well as your own independent research using the many sources available at the Institute, such as the {{% resource_link "fa45cbf9-571f-4d99-846b-d6cc4b58fe54" "Institute Archives" %}}, {{% resource_link "c9283c94-be39-4b5e-ab96-3ea367524a20" "MIT Museum" %}}, and various digital resources such as {{% resource_link "2e3f2aa6-3c1d-41d3-ad30-8924710b45ed" "The Tech" %}}, {{% resource_link "f36bb6ff-a046-4860-97bf-2bf1127673ff" "President's Reports" %}}, {{% resource_link "e2c28545-3a14-4332-b92f-c63d4a8b7a0f" "Catalogs" %}}, etc.
 
 ## Requirements
 
@@ -46,7 +46,7 @@ The goal of this assignment is to get you to think about the things you have lea
 - Paper should be 5 pages (1250–1500 words max) with footnotes. Illustrations or other images will affect the page count so use the "word count" tool or put the illustrations at the end. Your final version should be a Microsoft Word document, paginated, double-spaced, 12-point font with normal 1-inch margins.
 - Please check spelling, punctuation, and grammar carefully. This is a formal piece of work. It should represent your best effort. Use the spell and grammar checks on your computer, but consider having a friend read it over as well.
 - This is a research paper. You should seek out both primary and secondary sources available at repositories such as the MIT Libraries, Institute Archives, and the MIT Museum, as well as important online collections. The exact number of sources will vary by topic. Use the skills you were asked to practice for your document / artifact report.
-- Footnotes: The purpose of the footnote is to help the reader understand the sources you used, as well as assess the strength of your analysis. Just as cooks look at the ingredients of a recipe first, we will likewise read your notes and bibliography first. Great sources make a great first impression. There are several styles, but typically history papers use the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/16/ch14/ch14_toc.html).
+- Footnotes: The purpose of the footnote is to help the reader understand the sources you used, as well as assess the strength of your analysis. Just as cooks look at the ingredients of a recipe first, we will likewise read your notes and bibliography first. Great sources make a great first impression. There are several styles, but typically history papers use the {{% resource_link "34a75eb7-bf46-4210-8ed2-70ea64255acf" "Chicago Manual of Style" %}}.
 - Illustrations: It is entirely appropriate (but not required) to incorporate illustrations, technical diagrams, tables or other visual material. These need to be labeled and must indicate the source they were derived from.
 
 ### Tour
@@ -58,10 +58,10 @@ The goal of this assignment is to get you to think about the things you have lea
 ### Policy Recommendation
 
 - MIT produces many reports and recommendations. You have had the opportunity to read several for this class, so you can consider those as models, but below are other examples:
-    - [Sustainability](https://sustainability.mit.edu/working-groups/recommendations)
-    - [Status of Undergraduate Women](http://diversity.mit.edu/status-undergrad-women/)
-    - MIT Libraries [Statement on Rights and Safety of LGBTQ Individuals](http://libraries.mit.edu/news/libraries-supports-civil/21945/)
-    - [MIT and Climate Change](https://climateaction.mit.edu/reports)
+    - {{% resource_link "6918ddc2-7add-4658-b95d-6adec75e77b7" "Sustainability" %}}
+    - {{% resource_link "240ce7e5-3b79-40a7-bc70-4f565f558f4f" "Status of Undergraduate Women" %}}
+    - MIT Libraries {{% resource_link "01e49fba-8992-407b-af47-0e50b15be47b" "Statement on Rights and Safety of LGBTQ Individuals" %}}
+    - {{% resource_link "514170ed-387f-4524-990d-f0fe99a56b4e" "MIT and Climate Change" %}}
 - Your project should be what is sometimes referred to as an "Executive Summary" (2–4 pages) which highlights your key points and provides some evidence and information.
 - All reports come with a cover memorandum. Yours should be addressed to the relevant person at MIT. Your cover memo should include a very short synopsis of your hypothetical report, but also an explanation of what you have learned about MIT in preparing it.
 - This report is distinctive because your evidence should draw on history. If you want to say something about housing today, draw on information about student housing a century ago. For example, you might want to talk about security, but you should investigate what kinds of security (if any) was provided to students 100 years ago. If you want to discuss food, consider how students fed themselves during the first decade in Cambridge.
@@ -69,7 +69,7 @@ The goal of this assignment is to get you to think about the things you have lea
 
 ## Move Day Celebration Project Report
 
-For those of you that want to capture your performance or project and compare it with events of June 1916, you will want to become intimately familiar with [the July 1916 issue of *Technology Review*](https://www.technologyreview.com/magazine/1916/07/). There are 454 pages of details about every aspect of the event. There are also accounts in the Boston papers (all available online through the Libraries) and plenty of materials at the Archives and Museum (especially photographs).
+For those of you that want to capture your performance or project and compare it with events of June 1916, you will want to become intimately familiar with {{% resource_link "a0b77b72-28b2-45ed-98da-a8a3ed5efe30" "the July 1916 issue of *Technology Review*" %}}. There are 454 pages of details about every aspect of the event. There are also accounts in the Boston papers (all available online through the Libraries) and plenty of materials at the Archives and Museum (especially photographs).
 
 - You should divide your report into 3 parts. About 2 pages (plus photos, links, to videos, etc.) should describe your contribution to the event on May 7 2016. Pages 3–4 should compare this to some aspect of the 1916 celebration. The final page should contain a reflection of what you have learned from this "reenactment." What did your experience teach you about the original dedication? What can we learn about history by "doing" history?
 - Please remember to include footnotes, especially for the historical information, but document your own sources as well.

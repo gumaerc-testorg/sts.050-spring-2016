@@ -41,7 +41,7 @@ The most important prerequisite for this class is curiosity, a desire to think d
 Field Trips
 -----------
 
-There will be some "field trips" to other places on campus, such as the [Institute Archives](https://libraries.mit.edu/archives/) and the [MIT Museum](http://web.mit.edu/museum/) that are scheduled during class periods. In addition, I will call attention to various [Centennial Celebration](http://mit2016.mit.edu/) events and arrange an occasional "field trip" or outing that I think will enhance your appreciation of MIT's history. These extracurricular trips are completely voluntary and will have absolutely no bearing on your grade.
+There will be some "field trips" to other places on campus, such as the {{% resource_link "fa45cbf9-571f-4d99-846b-d6cc4b58fe54" "Institute Archives" %}} and the {{% resource_link "47e74189-74c4-42ce-a66e-bbfdf0ff8c7c" "MIT Museum" %}} that are scheduled during class periods. In addition, I will call attention to various {{% resource_link "7f165be6-3546-4be4-a9a4-818124a2126a" "Centennial Celebration" %}} events and arrange an occasional "field trip" or outing that I think will enhance your appreciation of MIT's history. These extracurricular trips are completely voluntary and will have absolutely no bearing on your grade.
 
 Grading
 -------
